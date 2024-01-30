@@ -1,9 +1,9 @@
 ## CSC435 Programming Assignment 1 (Winter 2024)
 **Jarvis College of Computing and Digital Media - DePaul University**
 
-**Student**: TO-DO write-student-name (TO-DO write-email-address)
+**Student**: Rahul Soni (rsoni9@depaul.edu)
 
-**Solution programming language**: TO-DO write-solution-programming-language (C++ or Java)
+**Solution programming language**: C++
 
 ### Requirements
 
